@@ -1,0 +1,5 @@
+c:\Tutorials\Lessons\Products\ProductInterfaces\bin\Debug\ProductInterfaces.dll
+c:\Tutorials\Lessons\Products\ProductInterfaces\bin\Debug\ProductInterfaces.pdb
+c:\Tutorials\Lessons\Products\ProductInterfaces\obj\Debug\ProductInterfaces.csprojResolveAssemblyReference.cache
+c:\Tutorials\Lessons\Products\ProductInterfaces\obj\Debug\ProductInterfaces.dll
+c:\Tutorials\Lessons\Products\ProductInterfaces\obj\Debug\ProductInterfaces.pdb

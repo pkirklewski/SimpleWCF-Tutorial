@@ -1,0 +1,6 @@
+c:\Tutorials\Lessons\Products\ProductService\bin\Debug\ProductService.exe.config
+c:\Tutorials\Lessons\Products\ProductService\bin\Debug\ProductService.exe
+c:\Tutorials\Lessons\Products\ProductService\bin\Debug\ProductService.pdb
+c:\Tutorials\Lessons\Products\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+c:\Tutorials\Lessons\Products\ProductService\obj\Debug\ProductService.exe
+c:\Tutorials\Lessons\Products\ProductService\obj\Debug\ProductService.pdb
