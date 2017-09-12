@@ -4,3 +4,9 @@ c:\Tutorials\Lessons\Products\ProductService\bin\Debug\ProductService.pdb
 c:\Tutorials\Lessons\Products\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
 c:\Tutorials\Lessons\Products\ProductService\obj\Debug\ProductService.exe
 c:\Tutorials\Lessons\Products\ProductService\obj\Debug\ProductService.pdb
+c:\Tutorials\Lessons\Products\ProductService\bin\Debug\EntityFramework.dll
+c:\Tutorials\Lessons\Products\ProductService\bin\Debug\EntityFramework.SqlServer.dll
+c:\Tutorials\Lessons\Products\ProductService\bin\Debug\ProductInterfaces.dll
+c:\Tutorials\Lessons\Products\ProductService\bin\Debug\ProductInterfaces.pdb
+c:\Tutorials\Lessons\Products\ProductService\bin\Debug\EntityFramework.xml
+c:\Tutorials\Lessons\Products\ProductService\bin\Debug\EntityFramework.SqlServer.xml

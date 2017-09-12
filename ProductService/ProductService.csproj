@@ -52,7 +52,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IWCFProductService.cs" />
     <Compile Include="Product.cs">
       <DependentUpon>ProductsModel.tt</DependentUpon>
     </Compile>
@@ -100,6 +99,12 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProductInterfaces\ProductInterfaces.csproj">
+      <Project>{cf178d0a-3568-41e2-a214-2f08acf0b43b}</Project>
+      <Name>ProductInterfaces</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
