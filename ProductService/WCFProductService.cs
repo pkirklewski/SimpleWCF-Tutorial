@@ -14,7 +14,27 @@ namespace ProductService
 
         public List<string> ListProducts()
         {
-            throw new NotImplementedException();
+
+            Console.WriteLine("ListProducts() has been called by the client");
+
+            List<string> productList = new List<string>();
+
+                try
+                {
+                    using (ProductsEntities database = new ProductsEntities())
+                    {
+                        var products = from p in database.Products select p.ProductID.ToString() + " | " + p.ProductName  + " | " +  p.ProductDescription.ToString()  + " | " +  p.Price.ToString();
+
+                        
+                        productList = products.ToList();
+                    }
+                }
+                catch (Exception)
+                {
+                
+                    throw;
+                }
+                return productList;
         }
     }
 }
