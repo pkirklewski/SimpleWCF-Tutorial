@@ -4,3 +4,5 @@ c:\Tutorials\Lessons\Products\ProductsClient\bin\Debug\ProductsClient.pdb
 c:\Tutorials\Lessons\Products\ProductsClient\obj\Debug\ProductsClient.csprojResolveAssemblyReference.cache
 c:\Tutorials\Lessons\Products\ProductsClient\obj\Debug\ProductsClient.exe
 c:\Tutorials\Lessons\Products\ProductsClient\obj\Debug\ProductsClient.pdb
+c:\Tutorials\Lessons\Products\ProductsClient\bin\Debug\ProductInterfaces.dll
+c:\Tutorials\Lessons\Products\ProductsClient\bin\Debug\ProductInterfaces.pdb
