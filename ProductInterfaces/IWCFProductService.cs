@@ -12,6 +12,6 @@ namespace ProductService
     public interface IWCFProductService
     {
         [OperationContract]
-        void DoWork();
+        List<string> ListProducts();
     }
 }
