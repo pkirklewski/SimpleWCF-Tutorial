@@ -23,8 +23,8 @@ namespace ProductService
                 {
                     using (ProductsEntities database = new ProductsEntities())
                     {
-                        var products = from p in database.Products select p.ProductID.ToString() + " | " + p.ProductName  + " | " +  p.ProductDescription.ToString()  + " | " +  p.Price.ToString();
-
+                        var products = from p in database.Products select p.ProductID.ToString() + " | " + p.ProductName + " | " + p.Price.ToString() + " | " + p.ProductDescription.ToString();
+                        //var pDescription = from p in database.Products select p.ProductDescription.ToString();
                         
                         productList = products.ToList();
                     }

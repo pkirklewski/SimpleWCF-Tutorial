@@ -17,7 +17,7 @@ namespace ProductsClient
             IWCFProductService proxy = channelFactory.CreateChannel();
             
             //calls the server
-            List<string> products = proxy.ListProducts();
+            List<string> products = proxy.ListProducts().ToList();
             
             foreach (var p in products)
             {
